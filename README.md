@@ -11,6 +11,8 @@ ONLY TESTED ON WINDOWS. MIGHT WORK ON OTHER PLATFORMS.
 
 - Requires brotli
 
+- Requires youtube-dl pafy
+
 ## How to Run
 
 Just open launcher.py in the directory and that's it.
