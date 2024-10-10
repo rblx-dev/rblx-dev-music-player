@@ -3,7 +3,7 @@ ONLY TESTED ON WINDOWS. MIGHT WORK ON OTHER PLATFORMS.
 
 ## Requirements
 
-- Requires myenv (https://pypi.org/project/myenv/ or "pip install myenv in cmd with Python installed)
+- Requires myenv (https://pypi.org/project/myenv/ or "pip install myenv" in cmd with Python installed)
 
 - Requires pygame
 
