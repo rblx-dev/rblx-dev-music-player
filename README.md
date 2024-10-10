@@ -1,6 +1,6 @@
 ## Requirements
 
-- Requires myenv (https://pypi.org/project/myenv/ or "pip install myenv in cmd [WITH PYTHON INSTALLED])
+- Requires myenv (https://pypi.org/project/myenv/ or "pip install myenv in cmd with Python installed)
 
 - Requires pygame
 
