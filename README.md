@@ -1,18 +1,6 @@
 ## NOTICE
 ONLY TESTED ON WINDOWS. MIGHT WORK ON OTHER PLATFORMS.
 
-## Requirements
-
-- Requires myenv (https://pypi.org/project/myenv/ or "pip install myenv" in cmd with Python installed)
-
-- Requires pygame
-
-- Requires Tkinter
-
-- Requires brotli
-
-- Requires youtube-dl pafy
-
 ## How to Run
 
 Just open launcher.py in the directory and that's it.
